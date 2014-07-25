@@ -22,5 +22,8 @@ _testmain.go
 *.exe
 *.test
 
+# app binary
+go-socket.io-sample
+
 # gom
 _vendor
