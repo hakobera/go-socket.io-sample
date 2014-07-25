@@ -1,0 +1,2 @@
+gom "github.com/googollee/go-engine.io"
+gom "github.com/googollee/go-socket.io", :branch => "1.0"
